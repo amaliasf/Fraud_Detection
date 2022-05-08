@@ -1,4 +1,4 @@
-# fraud_detection_dashboard
+# Fraud Detection Dashboard
 
 This project offers the objectives and contributions as follows:
 
